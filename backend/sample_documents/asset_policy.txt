@@ -1,0 +1,26 @@
+MEDHA Asset Hierarchy and Tagging Policy
+
+Document ID: POLICY-ASSET-001
+Version: 1.0
+Classification: public
+
+Overview:
+All physical assets within the MEDHA facility are assigned a unique tag
+following the KKS (Kraftwerk-Kennzeichensystem) identification system.
+This document defines the tagging conventions and hierarchy levels.
+
+Hierarchy Levels:
+1. System (Level 1): Major process systems — e.g., 10 = Boiler System
+2. Equipment (Level 2): Individual equipment — e.g., 101 = Boiler drum
+3. Component (Level 3): Sub-components — e.g., 101A = Level transmitter
+
+Tagging Rules:
+- Each asset receives a tag at Level 2 minimum.
+- Tags are alphanumeric and case-insensitive.
+- Deleted or decommissioned assets retain their tags as historical records.
+- New tags must be registered with the Asset Management team before use.
+
+Examples:
+- P-101: Pump, tag number 101 in system P (Process)
+- HE-201: Heat exchanger, tag number 201 in system HE (Heat Exchange)
+- V-301: Vessel, tag number 301 in system V (Vessel)

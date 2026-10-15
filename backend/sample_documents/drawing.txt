@@ -1,0 +1,24 @@
+MEDHA Engineering Drawing — Heat Exchanger HE-201
+
+Drawing Number: MECH-HE201-Rev3
+Classification: restricted
+
+Type: Shell-and-tube heat exchanger
+Service: Process coolant / Cooling water
+Design Code: ASME Section VIII Div.1
+
+Key Specifications:
+- Shell-side design pressure: 25 bar(g)
+- Tube-side design pressure: 10 bar(g)
+- Shell-side design temperature: 350°C
+- Tube-side design temperature: 80°C
+- Heat transfer area: 45.2 m²
+- Number of tubes: 120
+- Tube material: SS316L
+- Shell material: SA-516 Gr.70
+
+Inspection Notes:
+- Last ultrasonic thickness testing: 2026-06-10
+- Minimum wall thickness recorded: 6.8 mm (allowable: 6.0 mm)
+- No signs of tube leakage detected during hydrostatic test.
+- Shell-side corrosion rate: 0.05 mm/year — acceptable.

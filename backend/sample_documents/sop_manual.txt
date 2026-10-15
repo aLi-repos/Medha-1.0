@@ -1,0 +1,31 @@
+MEDHA Standard Operating Procedure — Boiler Operation
+
+Document ID: SOP-BOILER-003
+Version: 2.1
+Classification: internal
+
+1. Purpose
+   This SOP defines the safe operating procedures for the high-pressure
+   boiler system at the MEDHA demonstration facility.
+
+2. Scope
+   Applies to all operators and engineers responsible for boiler start-up,
+   normal operation, and shutdown.
+
+3. Pre-startup Checklist
+   - Verify water level in the drum is above the minimum mark.
+   - Confirm all safety valves are tested and functional.
+   - Check fuel gas pressure is within the operating range (2.5–3.0 bar).
+   - Ensure the combustion air damper is in the correct position.
+   - Verify the flue gas O₂ analyser reads 3–5%.
+
+4. Normal Operation
+   - Maintain steam pressure between 10.0 and 10.5 bar.
+   - Monitor drum water level continuously.
+   - Log all parameters every 30 minutes.
+
+5. Emergency Shutdown
+   - Trip the boiler if steam pressure exceeds 11.0 bar.
+   - Trip the boiler if drum water level drops below the low-level alarm.
+   - Close the main steam stop valve immediately upon trip.
+   - Notify the shift supervisor and engineering team.

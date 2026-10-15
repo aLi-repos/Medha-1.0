@@ -1,0 +1,1 @@
+"""MEDHA backend application package."""

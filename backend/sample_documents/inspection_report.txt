@@ -1,0 +1,23 @@
+MEDHA Safety Inspection Report — Pump Unit P-101
+
+Date: 2026-09-15
+Inspector: Dr. Ananya Mehta
+Classification: confidential
+
+Summary:
+Visual inspection of pump P-101 was conducted as part of the scheduled
+preventive maintenance programme. The pump casing shows no visible
+corrosion or mechanical damage. The bearing housing temperature was
+recorded at 42°C, well within the acceptable range of 35–65°C.
+
+Findings:
+1. Slight oil seepage observed at the mechanical seal — recommend
+   replacement of seal within the next 400 operating hours.
+2. Motor vibration readings: X-axis 0.8 mm/s, Y-axis 0.7 mm/s,
+   Z-axis 0.6 mm/s — all within acceptable limits (< 4.5 mm/s).
+3. Impeller clearance measured at 0.35 mm — within specification
+   of 0.3–0.4 mm.
+
+Recommendation:
+Continue monitoring. Schedule seal replacement at the next planned
+shutdown. No immediate safety concerns identified.
